@@ -1,5 +1,5 @@
 # Loyalty-Program-Enhancement-BRD
-A product case solution for a travel agency which is planning to launch a loyalty program to enhance customer engagement and group-based transactions. 
+A product management case study for a travel agency which is planning to launch a loyalty program to enhance customer engagement and group-based transactions. 
 
 # Needs Statement
 A travel agency is planning to launch a loyalty program to enhance customer engagement and group-based transactions. The program will enable customers to:
